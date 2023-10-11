@@ -18,6 +18,8 @@
 
 <a href=https://www.linkedin.com/in/gayatri-walunj-55384327b target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gayatri walunj" height="30" width="40" /></a>
 
+<a href="https://github.com/gayatri945" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gayatri walunj" height="30" width="40" /></a>
+
 <a href="https://instagram.com/gayatri_walunj_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gayatri_walunj_16" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
