@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently learning **Python Programming**
 
-- 💬 Ask me about **Python** **HTML** 
+- 💬 Ask me about **Python**, **HTML**, **CSS**, **Javascript**, **Django**, **MySQL**, **Bootstrap**
+
 
 - 📫 How to reach me **gayatriwalunj16@gmail.com**
 
