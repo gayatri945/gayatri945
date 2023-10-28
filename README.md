@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python Programming**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python** **HTML** 
 
 - 📫 How to reach me **gayatriwalunj16@gmail.com**
 
